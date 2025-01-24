@@ -1,0 +1,86 @@
+Projetos finais - Programação Orientada a Objetos 2024.2 - UFRN/TADS
+Prof. Josenalde Oliveira
+--------------------------------------------------------------------
+ALFREDO HENRIQUE SILVEIRA BEZERRA DOS SANTOS - Gestão de Pizzaria
+App: https://youtu.be/naZzjXzDz9Q
+Docs: https://github.com/AlfredoBsantos/PizzariaMenagerProject
+
+ALLEFE FILIPE DA SILVA CORDEIRO - Gestão Oficina Mecânica
+App: https://drive.google.com/file/d/1NuzQ05KZuHKpaMgB310aJ8bnOVuhQyy7/view?usp=sharing
+Docs: https://github.com/allefe1/mecanicaProjeto
+
+AYRON GABRYEW DIAS DA COSTA MATOS - Gestão Farmácia
+App: https://youtu.be/l7ubEr_MItU
+Docs: https://github.com/mrayronmatos001/pharmacy-system
+
+CAIO CESAR MIRANDA DE OLIVEIRA - Gestão Depósito Gesso
+App: https://youtu.be/9gMbxCnuj9E
+Docs: https://github.com/Caio-Cesar-Miranda/Gerenciamente-de-Deposito
+
+EDUARDO JACINTO RODRIGUES - Gestão Academia
+App: https://youtu.be/SP1oqhw9HDQ
+Docs: https://github.com/eduardowll/Academia-CRUD.git
+
+GABRIEL SANTOS SOARES - Gestão Livraria
+App: https://youtu.be/OFe0ku70-60
+Docs: https://github.com/Gaburiru6/Livraria_POO
+
+GUILHERME FELIPE DOS SANTOS PINHEIRO - Gestão Agendamento Consultas
+App: https://www.youtube.com/watch?v=8yHK-M7uaL8
+Docs: https://github.com/guilhermefelipe-97/agendamento-de-consultas
+
+GUSTAVO SOUZA DE LIMA - Gestão Ag. Viagens (Flask/Python)
+App: https://youtu.be/7Jc19YthgTY
+Docs: https://github.com/GustavoLimma/Gest-o-de-viagem
+
+HEITOR FELIPE OTACIANO DOS SANTOS - Gestão Clinica
+App: 
+Docs: https://github.com/HeitorOSdev/Clinica-Medica-TrabalhoFinal-POO-UnidIII
+
+HYAGO PHILIP PEREIRA DOS SANTOS - Gestão Club Society
+App: https://youtu.be/JJEEdTi4z10
+Docs: https://github.com/hyago1/Avaliacao-3-POO
+
+JEANE MIRELE OLIVEIRA DA SILVA - Gestão Pet Shop
+App: https://www.youtube.com/watch?v=Pg0p1J8c4Lg
+Docs: https://github.com/JeaneMirele/PetShop
+
+JOSE LEANDRO DE MOURA - Gestão Pet Shop
+App: https://drive.google.com/file/d/14SVs99Sc47NTe7BO2NM9Vj3vxsktAT4l/view
+Docs: https://github.com/leandromoura017/AppPetShop
+
+LEANDRO ELOI DE OLIVEIRA - Gestão Academia
+App: https://youtu.be/yzKwFpWjDps
+Docs: https://github.com/LeandrooEloi/OnFitness-Sistema-de-Gerenciamento
+
+LUIS CARLOS FIRMINO FAÇANHA - Gestão Panificadora
+App: https://youtu.be/AMJkL5DCsv0?si=INBJQ5cHfAF2VcQe
+Docs: https://github.com/LuiscffBRA/Panificadora
+
+MATEO DELGADO TINOCO CALAZANS DUARTE - Gestão Biblioteca
+App: https://youtu.be/H1PpWFHv_jY
+Docs: https://github.com/MateoCalazans/javaFX_Library_Project.git
+
+PALOMA EDUARDA DA SILVA TAVARES - Gestão Livraria
+App: https://www.youtube.com/watch?v=wBWqGXs9eOU
+Docs: https://github.com/Paloma-Eduarda/Livraria-Paloma
+
+PAOLLA MARIA OLIVEIRA DA SILVA PINTO - Gestão Locadora Veículos
+App: https://www.youtube.com/watch?v=LI8_14tguVQ
+Docs: https://github.com/Paolla123/Av_POO_3a.git
+
+PIERRE CARLOS DE BRITO - Gestão Hospitalar/Clínica
+App: https://youtu.be/GHieO2J-KZ8
+Docs: https://github.com/pierrecbrito/rafael
+
+SILVIO GOMES BRUCIAFERRO - Gestão Academia
+App: https://youtu.be/CoNOnEBn-M8
+Docs: https://github.com/Bruci87/Academy
+
+VITOR PAULINO GONÇALVES - Gestão Loja Roupas
+App: https://youtu.be/EeqQU0rrpbM
+Docs: https://github.com/VitorPaulinoG/ClothingStore
+
+
+
+
