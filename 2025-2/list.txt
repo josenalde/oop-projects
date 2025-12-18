@@ -1,0 +1,49 @@
+Projetos Finais POO - Turma 2025.2 TADS UFRN
+--------------------------------------------
+Alan Azevedo/Anderson - SIGEAJ - Sistema de Gestão de Setores Produtivos da EAJ
+docs: https://github.com/alanmartinsdeazevedo/sigeaj
+demonstracao: https://www.youtube.com/watch?v=g0qYXYNOjI8
+----------------
+Ana Souto/Camile Vitoria - Sistema Gerenciador de Tarefas - Bovinocultura
+docs: https://github.com/beatrizsouto3/ProjetoFinalPOO?tab=readme-ov-file
+demonstração: https://www.youtube.com/watch?v=851pjis72Jg
+----------------
+Davi Seabra/Gustavo Martins - Ferramenta de Auxílio ao Estudo ENEM
+docs: https://github.com/dvsantoss/sistema-para-estudos-enem
+demonstração: https://www.youtube.com/watch?v=MqjrqXF6gDE
+----------------
+Kamilly Medino - Gestão Biblioteca
+docs: https://github.com/kamillyvm/ProjetoFinalPOO/tree/main
+demonstração: https://www.youtube.com/watch?v=neqVZ_fesPU
+----------------
+Lucas Emanoel - Gestão de Consultas Médicas
+docs: https://github.com/Lucas3ar/POO-III
+demonstração: ?
+---------------
+Ludson Araújo/Matheus Santos - Gestão Barbearia
+docs: https://github.com/MatheusSantosB/BarbeariaSystem
+demonstração: https://drive.google.com/file/d/1vANEdysbIlwXiU2qcHezToSE0NzwLNNC/view
+---------------
+Marcos Henrique - Gestão Biblioteca/Empréstimos
+docs: https://github.com/Marcos-Henrique710/biblioteca-sistema/tree/master
+demonstração: ?
+---------------
+Matheus Alves/Kayron Nilton - Estética Automotiva
+docs: https://github.com/imatheuspro/gerenciamento_estetica_automotiva
+demonstração: https://www.youtube.com/watch?v=4WUcUmOeT3w
+--------------
+Natanael/Thiago - Loja de Temperos
+docs: https://github.com/NatanaelLucasBS/spice-store
+demonstração: https://youtu.be/KHvbZF8TP0Y
+--------------
+Nayan Luiz/Allan - Reserva Salão Condomínios
+docs: https://github.com/NayanLuiz/reserva-salao
+demonstração: https://1drv.ms/v/c/ae22d592318fea4e/IQC7Va1gJyDNSItCl314Z1O4AcBR8Q-GNEhP65bj0LIGoa8?e=LkbdOH
+-------------
+Nicolly Silva - TechBoutique
+docs: https://github.com/nnicolly/tech-boutique
+demonstração: https://drive.google.com/file/d/1R9zVSyeS0J1z_5b8Y75PgOKXWsAK2QVc/view
+------------
+Samuel Fernandes - Livraria
+docs: https://github.com/samuel21tu/POO-Avaliacao/tree/main
+demonstração: no repo (.mp4) 
